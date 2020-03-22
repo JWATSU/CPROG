@@ -1,2 +1,2 @@
 # CPROG
-A simple game inspired by Space Invaders that I made as a project. 
+Ett simpelt spel inspirerat av Space Invaders jag gjorde som ett projekt.
